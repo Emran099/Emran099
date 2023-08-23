@@ -1,11 +1,13 @@
-## Lead Software Engineer Sep 2015 - Jan 2020
+### Contact Details/Email: Muhammad Imran <muhammad.imran.099@gmail.com>
+
+### Lead Software Engineer Sep 2015 - Jan 2020
 ### Strategic Systems International, Lahore, Pakistan
 
 **Company** Germany and United states base company, workied with fortune 500 clients.
 **Highlight** Team lead, requirement gathering, direct client communication, requirement analysis, project sprint planning using agile, task delegation and ensuring the successful delivery of software solutions.
 **Tech Skills** Angular, JavaScript/Typescript, Node, Python - Django, C#, .Net, AWS, Azure, Google Cloud, Database, SQL, Query optimization, Git, JIRA, SVN
 
-## Software Engineer - Mar 2014 Till Aug 2015
+### Software Engineer - Mar 2014 Till Aug 2015
 ### Confiz Limited, Lahore, Pakistan
 **Company** United states based company of 400 plus employees, working with fortune 500 US Based client that includes, Wall mart, T Mobile, Macy’s, Microsoft
 **Highlight** Team Lead and core development of retail industry enterprise websites and mobiles applications.
